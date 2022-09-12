@@ -1,0 +1,100 @@
+{
+    "status": 200,
+    "message": null,
+    "data": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": "0bad489a-9da3-440a-b402-c316ee1472a8",
+                "invited_user_id": "nZtFpQpG7Vh6oz7PO2RCFlSMfWv2",
+                "invited_user_full_name": "tungyyyy",
+                "type": "REFERRAL",
+                "amount": "5.00",
+                "earning_date": 1662517038
+            },
+            {
+                "id": "65dada00-b8a3-400f-af0f-176510807380",
+                "invited_user_id": "0a5oyMW51VbKF6ANGUolc6YjeZz1",
+                "invited_user_full_name": "ghjkghj",
+                "type": "REFERRAL",
+                "amount": "5.00",
+                "earning_date": 1662452425
+            },
+            {
+                "id": "49bfa27a-49ff-4d44-81b4-f7638127499d",
+                "invited_user_id": "pIH2mmcvVqZldCAXqBGrIgoKMU83",
+                "invited_user_full_name": "tungfff",
+                "type": "REFERRAL",
+                "amount": "5.00",
+                "earning_date": 1662452133
+            },
+            {
+                "id": "daafa2e4-5e5a-4325-ba8d-ad3b544f8b65",
+                "invited_user_id": "rRN3IXMNUpaalTKPnTX4SCiXhmk2",
+                "invited_user_full_name": "sudẽnc",
+                "type": "REFERRAL",
+                "amount": "5.00",
+                "earning_date": 1662451130
+            },
+            {
+                "id": "5f0302e8-61ce-4316-b5b3-ef030170544b",
+                "invited_user_id": "DpMkDWFjgfgltVqGmI4TygCWlWy1",
+                "invited_user_full_name": "tungfffff",
+                "type": "REFERRAL",
+                "amount": "5.00",
+                "earning_date": 1662450303
+            },
+            {
+                "id": "bb0d4715-71b1-425a-a3a0-9b2fe758f838",
+                "invited_user_id": "VADI9JhnDQe8hbhgVsMaHvwThlW2",
+                "invited_user_full_name": "Thùy Dung",
+                "type": "REFERRAL",
+                "amount": "5.00",
+                "earning_date": 1662438785
+            },
+            {
+                "id": "f9a4b06d-caec-4242-aff3-1137d4a832d7",
+                "invited_user_id": "ywYezX5b9mfPGAAVhxrUbc4qGhA3",
+                "invited_user_full_name": "Tùng gà",
+                "type": "REFERRAL",
+                "amount": "5.00",
+                "earning_date": 1662371047
+            },
+            {
+                "id": "85097a69-d206-4430-aa9a-e5b68686f08b",
+                "invited_user_id": "NFCDkiRnUVcgEGbynSi5SCufSNA3",
+                "invited_user_full_name": "tunggggg",
+                "type": "REFERRAL",
+                "amount": "100.00",
+                "earning_date": 1660788706
+            }
+        ],
+        "first_page_url": "https://api-dev.healthtwin.org/reward/referral?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://api-dev.healthtwin.org/reward/referral?page=1",
+        "links": [
+            {
+                "url": null,
+                "label": "pagination.previous",
+                "active": false
+            },
+            {
+                "url": "https://api-dev.healthtwin.org/reward/referral?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "pagination.next",
+                "active": false
+            }
+        ],
+        "next_page_url": null,
+        "path": "https://api-dev.healthtwin.org/reward/referral",
+        "per_page": "10",
+        "prev_page_url": null,
+        "to": 8,
+        "total": 8
+    }
+}
